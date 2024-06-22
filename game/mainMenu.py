@@ -1,3 +1,5 @@
+import pyray as ray
+
 from src import universalVariables as UV
 from src import universalFunctions as UFS
 import pyray as ray
